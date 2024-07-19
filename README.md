@@ -6,7 +6,8 @@ I am a java backend developer, and I'd like to make some contributions for java 
 
 - **[github](https://github.com/jadenjin)**
 - **[gitee](https://gitee.com/chenjinjit)**
-- **[gmail](chenjinjit@gmail.com)**
+- **[gmail](mailto:chenjinjit@gmail.com)**
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadenjin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
