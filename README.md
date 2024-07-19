@@ -5,7 +5,7 @@ I am a java backend developer, and I'd like to make some contributions for java 
 ### Find me
 
 - **[github](https://github.com/jadenjin)**
-- **[gitee](https://gitee.com/chenjinjit)**
+- **[👉🏻gitee👈🏻👀](https://gitee.com/chenjinjit)**
 - **[gmail](mailto:chenjinjit@gmail.com)**
 
 
