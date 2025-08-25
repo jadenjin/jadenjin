@@ -1,14 +1,14 @@
-### Hi there 👋
+### 你好 👋
 
-### This is Jaden Chen!
+### 我是 Jaden Chen!
 
-[![中文](https://img.shields.io/badge/语言-中文-red.svg)](README-CN.md)
+[![English](https://img.shields.io/badge/Language-English-blue.svg)](README.md)
 
 ### Find me
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jadenjin)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
-[![Blog](https://img.shields.io/badge/-Blog-000?style=flat&logo=blogger&logoColor=white)](http://47.100.68.132:8080)
+[![博客](https://img.shields.io/badge/-Blog-000?style=flat&logo=blogger&logoColor=white)](http://47.100.68.132:8080)
 
 Welcome to my Github page!
 
