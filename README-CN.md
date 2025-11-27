@@ -4,39 +4,41 @@
 
 [![English](https://img.shields.io/badge/Language-English-blue.svg)](README.md)
 
-### Find me
+
+### 找到我
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jadenjin)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
-[![博客](https://img.shields.io/badge/-Blog-000?style=flat&logo=blogger&logoColor=white)](http://47.100.68.132:8080)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chenjinjin@gmail.com)
+[![Blog](https://img.shields.io/badge/-Blog-000?style=flat&logo=blogger&logoColor=white)](http://47.100.68.132:8080)
 
-Welcome to my Github page!
+欢迎来到我的 Github 页面！
 
 
 <img align="right" alt="img" src="./image/image0.png" width="50%" height="auto" />
 
-#### 🌱 Things I am currently working on:
+#### 🌱 我目前正在做的事情：
 
 
-- Finish my Computer Engineering Master Degree
+- 我目前在一家嵌入式系统公司担任 Java 开发工程师。
 
-- Taking online courses about Data Science and Machine Learning
+- 我的主要方向是 Java 开发，偶尔也会做一些 Android 的工作。
 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
-
-
-#### 💪 Things I am challenging myself with:
+- 我也喜欢使用 Python、Rust 和 Go 等语言来做一些小型的副项目。
 
 
-- Waking up earlier to make good use of the day
+#### 💪 我正在挑战自己的事情：
 
-- Coding at least 4 hours a day
 
-- Exercising 3 days a week
+- 早起，让一天更有价值
 
-- Improving my CV with some education apart from university
+- 保持锻炼的连续性
 
-#### 💻 Programming languages and tools:
+- 在工作和生活中更多地使用英语
+
+- 持续练习 LeetCode 的算法题
+
+
+#### 💻 编程语言与工具：
 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=jadenjin&show_icons=true&hide_border=true"  alt=""/>
@@ -45,11 +47,11 @@ Welcome to my Github page!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 </p>
