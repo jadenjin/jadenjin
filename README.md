@@ -18,11 +18,11 @@ Welcome to my Github page!
 #### 🌱 Things I am currently working on:
 
 
-- Finish my Computer Engineering Master Degree
+- I’m currently a Java developer at an embedded systems company.
 
-- Taking online courses about Data Science and Machine Learning
+- My main focus is Java development, and I occasionally do some Android work as well.
 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+- I also enjoy using other languages like Python, Rust, and Go to build small side projects.
 
 
 #### 💪 Things I am challenging myself with:
@@ -30,11 +30,11 @@ Welcome to my Github page!
 
 - Waking up earlier to make good use of the day
 
-- Coding at least 4 hours a day
+- stay consistent with my workouts
 
-- Exercising 3 days a week
+- trying to use English more in both my work and daily life.
 
-- Improving my CV with some education apart from university
+- consistent with practicing problems on LeetCode.
 
 #### 💻 Programming languages and tools:
 
