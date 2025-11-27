@@ -30,11 +30,11 @@ Welcome to my Github page!
 
 - Waking up earlier to make good use of the day
 
-- stay consistent with my workouts
+- Stay consistent with my workouts
 
-- trying to use English more in both my work and daily life.
+- Trying to use English more in both my work and daily life.
 
-- consistent with practicing problems on LeetCode.
+- Consistent with practicing problems on LeetCode.
 
 #### 💻 Programming languages and tools:
 
