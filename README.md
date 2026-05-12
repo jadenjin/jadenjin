@@ -1,42 +1,28 @@
-### Hi there 👋
+### Hi there, I'm Jaden !👋
 
-### This is Jaden Chen!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Java+Developer;Building+life+with+code;Exploring+Native+%26+Backend+Tech;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
 
-[![中文](https://img.shields.io/badge/语言-中文-red.svg)](README-CN.md)
+---
 
-### Find me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jadenjin/jadenjin/output/github-snake.svg" alt="Contribution Snake" />
+</p>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jadenjin)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chenjinjin@gmail.com)
-[![Blog](https://img.shields.io/badge/-Blog-000?style=flat&logo=blogger&logoColor=white)](http://47.100.68.132:8080)
+#### 🌱 关于我：
 
-Welcome to my Github page!
+- 我目前在一家嵌入式系统公司担任 Java 开发工程师。
 
+- 我的主要方向是 Java 开发，偶尔也会做一些 Android 的工作。
 
-<img align="right" alt="img" src="./image/image0.png" width="50%" height="auto" />
+- 我也喜欢使用 Python、Rust 和 Go 等语言来做一些小型的副项目。
 
-#### 🌱 Things I am currently working on:
+- 联系方式：[chenjinjit@gmail.com](mailto:chenjinjit@gmail.com)
 
+---
 
-- I’m currently a Java developer at an embedded systems company.
-
-- My main focus is Java development, and I occasionally do some Android work as well.
-
-- I also enjoy using other languages like Python, Rust, and Go to build small side projects.
-
-
-#### 💪 Things I am challenging myself with:
-
-
-- Waking up earlier to make good use of the day
-
-- Stay consistent with my workouts
-
-- Trying to use English more in both my work and daily life.
-
-- Consistent with practicing problems on LeetCode.
-
-#### 💻 Programming languages and tools:
+#### 💻 技术栈：
 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=jadenjin&show_icons=true&hide_border=true"  alt=""/>
@@ -52,4 +38,5 @@ Welcome to my Github page!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+
 </p>
